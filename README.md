@@ -1,0 +1,2 @@
+# PythonForEverybody
+Solved exercieses
